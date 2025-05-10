@@ -1,0 +1,1992 @@
+# Blender 3.3.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Color_000
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Color_001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.886275 0.886275 0.886275
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Color_004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.556863 0.556863 0.556863
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Color_006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.337255 0.337255 0.337255
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl FrontColor
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Villa_savoye_avant1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1.jpg
+
+newmtl Villa_savoye_avant1_10_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_10_.jpg
+
+newmtl Villa_savoye_avant1_11_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_11_.jpg
+
+newmtl Villa_savoye_avant1_12_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_12_.jpg
+
+newmtl Villa_savoye_avant1_13_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_13_.jpg
+
+newmtl Villa_savoye_avant1_14_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_14_.jpg
+
+newmtl Villa_savoye_avant1_15_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_15_.jpg
+
+newmtl Villa_savoye_avant1_16_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_16_.jpg
+
+newmtl Villa_savoye_avant1_17_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_17_.jpg
+
+newmtl Villa_savoye_avant1_18_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_18_.jpg
+
+newmtl Villa_savoye_avant1_19_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_19_.jpg
+
+newmtl Villa_savoye_avant1_1_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_1_.jpg
+
+newmtl Villa_savoye_avant1_20_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_20_.jpg
+
+newmtl Villa_savoye_avant1_21_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_21_.jpg
+
+newmtl Villa_savoye_avant1_22_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_22_.jpg
+
+newmtl Villa_savoye_avant1_23_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_23_.jpg
+
+newmtl Villa_savoye_avant1_24_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_24_.jpg
+
+newmtl Villa_savoye_avant1_25_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_25_.jpg
+
+newmtl Villa_savoye_avant1_26_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_26_.jpg
+
+newmtl Villa_savoye_avant1_27_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_27_.jpg
+
+newmtl Villa_savoye_avant1_28_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_28_.jpg
+
+newmtl Villa_savoye_avant1_29_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_29_.jpg
+
+newmtl Villa_savoye_avant1_2_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_2_.jpg
+
+newmtl Villa_savoye_avant1_30_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_30_.jpg
+
+newmtl Villa_savoye_avant1_31_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_31_.jpg
+
+newmtl Villa_savoye_avant1_32_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_32_.jpg
+
+newmtl Villa_savoye_avant1_33_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_33_.jpg
+
+newmtl Villa_savoye_avant1_34_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_34_.jpg
+
+newmtl Villa_savoye_avant1_35_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_35_.jpg
+
+newmtl Villa_savoye_avant1_36_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_36_.jpg
+
+newmtl Villa_savoye_avant1_37_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_37_.jpg
+
+newmtl Villa_savoye_avant1_38_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_38_.jpg
+
+newmtl Villa_savoye_avant1_39_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_39_.jpg
+
+newmtl Villa_savoye_avant1_3_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_3_.jpg
+
+newmtl Villa_savoye_avant1_40_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_40_.jpg
+
+newmtl Villa_savoye_avant1_41_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_41_.jpg
+
+newmtl Villa_savoye_avant1_42_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_42_.jpg
+
+newmtl Villa_savoye_avant1_43_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_43_.jpg
+
+newmtl Villa_savoye_avant1_44_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_44_.jpg
+
+newmtl Villa_savoye_avant1_45_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_45_.jpg
+
+newmtl Villa_savoye_avant1_46_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_46_.jpg
+
+newmtl Villa_savoye_avant1_47_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_47_.jpg
+
+newmtl Villa_savoye_avant1_48_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_48_.jpg
+
+newmtl Villa_savoye_avant1_49_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_49_.jpg
+
+newmtl Villa_savoye_avant1_4_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_4_.jpg
+
+newmtl Villa_savoye_avant1_50_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_50_.jpg
+
+newmtl Villa_savoye_avant1_51_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_51_.jpg
+
+newmtl Villa_savoye_avant1_52_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_52_.jpg
+
+newmtl Villa_savoye_avant1_53_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_53_.jpg
+
+newmtl Villa_savoye_avant1_54_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_54_.jpg
+
+newmtl Villa_savoye_avant1_55_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_55_.jpg
+
+newmtl Villa_savoye_avant1_56_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_56_.jpg
+
+newmtl Villa_savoye_avant1_57_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_57_.jpg
+
+newmtl Villa_savoye_avant1_58_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_58_.jpg
+
+newmtl Villa_savoye_avant1_59_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_59_.jpg
+
+newmtl Villa_savoye_avant1_5_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_5_.jpg
+
+newmtl Villa_savoye_avant1_60_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_60_.jpg
+
+newmtl Villa_savoye_avant1_61_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_61_.jpg
+
+newmtl Villa_savoye_avant1_62_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_62_.jpg
+
+newmtl Villa_savoye_avant1_63_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_63_.jpg
+
+newmtl Villa_savoye_avant1_64_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_64_.jpg
+
+newmtl Villa_savoye_avant1_65_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_65_.jpg
+
+newmtl Villa_savoye_avant1_66_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_66_.jpg
+
+newmtl Villa_savoye_avant1_67_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_67_.jpg
+
+newmtl Villa_savoye_avant1_68_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_68_.jpg
+
+newmtl Villa_savoye_avant1_69_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_69_.jpg
+
+newmtl Villa_savoye_avant1_6_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_6_.jpg
+
+newmtl Villa_savoye_avant1_70_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_70_.jpg
+
+newmtl Villa_savoye_avant1_71_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_71_.jpg
+
+newmtl Villa_savoye_avant1_72_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_72_.jpg
+
+newmtl Villa_savoye_avant1_73_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_73_.jpg
+
+newmtl Villa_savoye_avant1_74_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_74_.jpg
+
+newmtl Villa_savoye_avant1_75_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_75_.jpg
+
+newmtl Villa_savoye_avant1_76_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_76_.jpg
+
+newmtl Villa_savoye_avant1_77_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_77_.jpg
+
+newmtl Villa_savoye_avant1_78_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_78_.jpg
+
+newmtl Villa_savoye_avant1_79_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_79_.jpg
+
+newmtl Villa_savoye_avant1_7_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_7_.jpg
+
+newmtl Villa_savoye_avant1_80_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_80_.jpg
+
+newmtl Villa_savoye_avant1_81_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_81_.jpg
+
+newmtl Villa_savoye_avant1_82_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_82_.jpg
+
+newmtl Villa_savoye_avant1_83_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_83_.jpg
+
+newmtl Villa_savoye_avant1_84_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_84_.jpg
+
+newmtl Villa_savoye_avant1_85_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_85_.jpg
+
+newmtl Villa_savoye_avant1_86_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_86_.jpg
+
+newmtl Villa_savoye_avant1_87_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_87_.jpg
+
+newmtl Villa_savoye_avant1_88_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_88_.jpg
+
+newmtl Villa_savoye_avant1_8_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_8_.jpg
+
+newmtl Villa_savoye_avant1_9_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/Villa_savoye_avant1_9_.jpg
+
+newmtl bannerindex1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1.jpg
+
+newmtl bannerindex1_100_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_100_.jpg
+
+newmtl bannerindex1_101_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_101_.jpg
+
+newmtl bannerindex1_102_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_102_.jpg
+
+newmtl bannerindex1_103_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_103_.jpg
+
+newmtl bannerindex1_104_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_104_.jpg
+
+newmtl bannerindex1_10_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_10_.jpg
+
+newmtl bannerindex1_11_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_11_.jpg
+
+newmtl bannerindex1_12_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_12_.jpg
+
+newmtl bannerindex1_13_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_13_.jpg
+
+newmtl bannerindex1_14_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_14_.jpg
+
+newmtl bannerindex1_15_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_15_.jpg
+
+newmtl bannerindex1_16_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_16_.jpg
+
+newmtl bannerindex1_17_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_17_.jpg
+
+newmtl bannerindex1_18_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_18_.jpg
+
+newmtl bannerindex1_19_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_19_.jpg
+
+newmtl bannerindex1_1_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_1_.jpg
+
+newmtl bannerindex1_20_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_20_.jpg
+
+newmtl bannerindex1_21_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_21_.jpg
+
+newmtl bannerindex1_22_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_22_.jpg
+
+newmtl bannerindex1_23_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_23_.jpg
+
+newmtl bannerindex1_24_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_24_.jpg
+
+newmtl bannerindex1_25_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_25_.jpg
+
+newmtl bannerindex1_26_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_26_.jpg
+
+newmtl bannerindex1_27_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_27_.jpg
+
+newmtl bannerindex1_28_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_28_.jpg
+
+newmtl bannerindex1_29_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_29_.jpg
+
+newmtl bannerindex1_2_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_2_.jpg
+
+newmtl bannerindex1_30_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_30_.jpg
+
+newmtl bannerindex1_31_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_31_.jpg
+
+newmtl bannerindex1_32_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_32_.jpg
+
+newmtl bannerindex1_33_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_33_.jpg
+
+newmtl bannerindex1_34_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_34_.jpg
+
+newmtl bannerindex1_35_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_35_.jpg
+
+newmtl bannerindex1_36_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_36_.jpg
+
+newmtl bannerindex1_37_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_37_.jpg
+
+newmtl bannerindex1_38_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_38_.jpg
+
+newmtl bannerindex1_39_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_39_.jpg
+
+newmtl bannerindex1_3_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_3_.jpg
+
+newmtl bannerindex1_40_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_40_.jpg
+
+newmtl bannerindex1_41_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_41_.jpg
+
+newmtl bannerindex1_42_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_42_.jpg
+
+newmtl bannerindex1_43_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_43_.jpg
+
+newmtl bannerindex1_44_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_44_.jpg
+
+newmtl bannerindex1_45_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_45_.jpg
+
+newmtl bannerindex1_46_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_46_.jpg
+
+newmtl bannerindex1_47_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_47_.jpg
+
+newmtl bannerindex1_48_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_48_.jpg
+
+newmtl bannerindex1_49_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_49_.jpg
+
+newmtl bannerindex1_4_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_4_.jpg
+
+newmtl bannerindex1_50_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_50_.jpg
+
+newmtl bannerindex1_51_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_51_.jpg
+
+newmtl bannerindex1_52_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_52_.jpg
+
+newmtl bannerindex1_53_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_53_.jpg
+
+newmtl bannerindex1_54_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_54_.jpg
+
+newmtl bannerindex1_55_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_55_.jpg
+
+newmtl bannerindex1_56_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_56_.jpg
+
+newmtl bannerindex1_57_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_57_.jpg
+
+newmtl bannerindex1_58_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_58_.jpg
+
+newmtl bannerindex1_59_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_59_.jpg
+
+newmtl bannerindex1_5_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_5_.jpg
+
+newmtl bannerindex1_60_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_60_.jpg
+
+newmtl bannerindex1_61_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_61_.jpg
+
+newmtl bannerindex1_62_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_62_.jpg
+
+newmtl bannerindex1_63_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_63_.jpg
+
+newmtl bannerindex1_64_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_64_.jpg
+
+newmtl bannerindex1_65_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_65_.jpg
+
+newmtl bannerindex1_66_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_66_.jpg
+
+newmtl bannerindex1_67_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_67_.jpg
+
+newmtl bannerindex1_68_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_68_.jpg
+
+newmtl bannerindex1_69_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_69_.jpg
+
+newmtl bannerindex1_6_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_6_.jpg
+
+newmtl bannerindex1_70_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_70_.jpg
+
+newmtl bannerindex1_71_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_71_.jpg
+
+newmtl bannerindex1_72_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_72_.jpg
+
+newmtl bannerindex1_73_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_73_.jpg
+
+newmtl bannerindex1_74_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_74_.jpg
+
+newmtl bannerindex1_75_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_75_.jpg
+
+newmtl bannerindex1_76_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_76_.jpg
+
+newmtl bannerindex1_77_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_77_.jpg
+
+newmtl bannerindex1_78_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_78_.jpg
+
+newmtl bannerindex1_79_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_79_.jpg
+
+newmtl bannerindex1_7_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_7_.jpg
+
+newmtl bannerindex1_80_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_80_.jpg
+
+newmtl bannerindex1_81_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_81_.jpg
+
+newmtl bannerindex1_82_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_82_.jpg
+
+newmtl bannerindex1_83_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_83_.jpg
+
+newmtl bannerindex1_84_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_84_.jpg
+
+newmtl bannerindex1_85_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_85_.jpg
+
+newmtl bannerindex1_86_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_86_.jpg
+
+newmtl bannerindex1_87_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_87_.jpg
+
+newmtl bannerindex1_88_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_88_.jpg
+
+newmtl bannerindex1_89_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_89_.jpg
+
+newmtl bannerindex1_8_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_8_.jpg
+
+newmtl bannerindex1_90_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_90_.jpg
+
+newmtl bannerindex1_91_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_91_.jpg
+
+newmtl bannerindex1_92_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_92_.jpg
+
+newmtl bannerindex1_93_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_93_.jpg
+
+newmtl bannerindex1_94_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_94_.jpg
+
+newmtl bannerindex1_95_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_95_.jpg
+
+newmtl bannerindex1_96_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_96_.jpg
+
+newmtl bannerindex1_97_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_97_.jpg
+
+newmtl bannerindex1_98_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_98_.jpg
+
+newmtl bannerindex1_99_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_99_.jpg
+
+newmtl bannerindex1_9_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 3+d+vila+savoye/bannerindex1_9_.jpg

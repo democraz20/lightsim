@@ -112,7 +112,7 @@ def input(key):
     elif key == 'r':
         origin = camera.world_position
         direction = camera.forward.normalized()
-        reflect_ray(origin, direction, remaining_bounces=5, max_bounces=5, base_color=color.red)
+        reflect_ray(origin, direction, remaining_bounces=5, max_bounces=5, base_color=color.azure)
 
     elif key == 'c':
         crosshair.enabled = not crosshair.enabled
@@ -126,10 +126,19 @@ def input(key):
 
 app = Ursina(borderless=False)
 
+window.color = color.hex('cccccc')
+mainmodel = 'IWASA+HOUSE+'
+modelscale = 1
+
+# Entity(
+#     model='cube',
+#     collider='mesh'
+# )
 
 wireframeentity = Entity(
-    model='house1',   # Replace with your .obj file
-    texture='brick',
+    model=mainmodel,   # Replace with your .obj file
+    scale=modelscale,
+    # texture='brick',
 )
 
 # Enable wireframe mode using Panda3D
@@ -153,13 +162,14 @@ crosshair = Entity(
 
 # window.render_mode = 'point'
 
-mainentity = Entity(model='house1',
+mainentity = Entity(model=mainmodel,
 # firstentity = Entity(model='icosphere',
-color = color.rgb(200, 60, 50),
+# color = color.rgb(200, 60, 50),
 texture = 'brick',
 position = (0,0,0),
 rotation = (0,0,0),
 collider = 'mesh',
+scale=modelscale,
 # scale = 2,
 )
 

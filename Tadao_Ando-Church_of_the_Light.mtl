@@ -1,0 +1,102 @@
+# Blender 3.3.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Carpet_Ltgreens_20_z_20_b_10_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Tadao_Ando-Church_of_the_Light/Carpet_Ltgreens_20_z_20_b_10_.jpg
+
+newmtl FrontColor
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl _2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Tadao_Ando-Church_of_the_Light/_2.jpg
+
+newmtl gray1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.529412 0.529412 0.529412
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl gray2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.266667 0.266667 0.266667
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl isu
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Tadao_Ando-Church_of_the_Light/isu.jpg
+
+newmtl kabe
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Tadao_Ando-Church_of_the_Light/kabe.jpg
+
+newmtl tenzyou
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Tadao_Ando-Church_of_the_Light/tenzyou.jpg
+
+newmtl yuka
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Tadao_Ando-Church_of_the_Light/yuka.jpg
+
+newmtl zyari
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Tadao_Ando-Church_of_the_Light/zyari.jpg
