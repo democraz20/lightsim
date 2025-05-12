@@ -5,11 +5,28 @@ from panda3d.core import DepthTestAttrib, RenderModeAttrib
 
 import time
 
+from gui import init_gui
+
+app = Ursina(borderless=False)  
+
 # --- Manual FPS limit ---
 target_fps = 60
 target_frame_duration = 1 / target_fps
 last_time = time.time()
 
+mesh_render_mode = 'default'
+
+EPSILON = 1e-4  # Small offset to prevent self-collision
+
+camera_mode = 0  # 0 = perspective, 1 = orthographic, 2 = isometric
+original_position = Vec3(0, 0, -20)
+original_rotation = Vec3(0, 0, 0)
+
+window.color = color.hex('cccccc')
+mainmodel = 'untitled'
+modelscale = 1
+
+controlwindow = False
 
 def update():
     global last_time
@@ -23,13 +40,11 @@ def update():
 
     #updates
     # firstentity.rotation_y += 30 * time.dt 
+    # print(mouse.hovered_entity)
     pass
 
 
-mesh_render_mode = 'default'
 
-
-EPSILON = 1e-4  # Small offset to prevent self-collision
 
 def create_line(start, end, base_color, opacity):
     color_with_opacity = color.rgba(base_color.r, base_color.g, base_color.b, opacity)
@@ -38,7 +53,7 @@ def create_line(start, end, base_color, opacity):
         color=color_with_opacity,
         double_sided=True,
         enabled=True,
-        collision=False  # Ensure lines don't interfere with raycasting
+        collision=False  
     )
 
 def reflect_ray(origin, direction, remaining_bounces, max_bounces, base_color=color.red):
@@ -64,10 +79,6 @@ def reflect_ray(origin, direction, remaining_bounces, max_bounces, base_color=co
     else:
         end = origin + direction * 10
         create_line(origin, end, base_color, opacity)
-
-camera_mode = 0  # 0 = perspective, 1 = orthographic, 2 = isometric
-original_position = Vec3(0, 0, -20)
-original_rotation = Vec3(0, 0, 0)
 
 def toggle_camera_mode():
     global camera_mode, original_position, original_rotation
@@ -120,15 +131,17 @@ def input(key):
 
     elif key == 'p':
         toggle_camera_mode()
+        
+    elif key == 'g':
+        if controlwindow == False:
+            init_gui()
 
 
 
 
-app = Ursina(borderless=False)
 
-window.color = color.hex('cccccc')
-mainmodel = 'IWASA+HOUSE+'
-modelscale = 1
+
+
 
 # Entity(
 #     model='cube',
