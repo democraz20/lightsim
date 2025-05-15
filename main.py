@@ -43,8 +43,16 @@ def update():
     # print(mouse.hovered_entity)
     pass
 
+genplane = {
+    "position" : [0,0,0],
+    "rotation" : [0,0,0],
+    "scale"    : [1,1,1]
+}
 
-
+#shit like ['gp', 'pos', '20.5']
+def process_gui_cmd(cmd: list):
+    print(cmd)
+    pass
 
 def create_line(start, end, base_color, opacity):
     color_with_opacity = color.rgba(base_color.r, base_color.g, base_color.b, opacity)
@@ -134,7 +142,7 @@ def input(key):
         
     elif key == 'g':
         if controlwindow == False:
-            init_gui()
+            init_gui(process_gui_cmd)
 
 
 
