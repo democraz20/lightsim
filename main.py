@@ -2,8 +2,11 @@ from ursina import *
 from ursina.shaders import lit_with_shadows_shader 
 
 from panda3d.core import DepthTestAttrib, RenderModeAttrib
+from panda3d.core import Point3
 
 import time
+import threading
+from multiprocessing import Process
 
 from gui import init_gui
 
@@ -28,31 +31,39 @@ modelscale = 1
 
 controlwindow = False
 
-def update():
-    global last_time
-    now = time.time()
-    elapsed = now - last_time
 
-    if elapsed < target_frame_duration:
-        time.sleep(target_frame_duration - elapsed)
+# genplane = {
+#     "position" : [0,0,0],
+#     "rotation" : [0,0,0],
+#     "scale"    : [1,1,1]
+# }
 
-    last_time = time.time()
 
-    #updates
-    # firstentity.rotation_y += 30 * time.dt 
-    # print(mouse.hovered_entity)
-    pass
+genplane = Entity(model='plane', double_sided=True)
+genplane.rotation= (0, 1, 0)
 
-genplane = {
-    "position" : [0,0,0],
-    "rotation" : [0,0,0],
-    "scale"    : [1,1,1]
-}
 
-#shit like ['gp', 'pos', '20.5']
+
+#shit like ['gp', the fucking thing]
 def process_gui_cmd(cmd: list):
-    print(cmd)
+    print("cmd ", cmd)
+    if cmd[0] == "gp":
+        print(cmd)
+        genplane.position = cmd[1][0]
+        genplane.rotation = cmd[1][1]
+        genplane.scale    = cmd[1][2]
+
+        print(genplane.rotation)
+        pass
+    elif cmd[0] == "winclosed":
+        global controlwindow
+        controlwindow = False
+        print("control window reset")
+        pass
     pass
+
+threading.Thread(target=init_gui, args=(process_gui_cmd,), daemon=True).start()
+
 
 def create_line(start, end, base_color, opacity):
     color_with_opacity = color.rgba(base_color.r, base_color.g, base_color.b, opacity)
@@ -63,6 +74,64 @@ def create_line(start, end, base_color, opacity):
         enabled=True,
         collision=False  
     )
+
+def create_aim_lines():
+    return Entity(
+        parent=genplane,
+        model=Mesh(vertices=[Vec3(0, 0, 0), Vec3(0, 10, 0)], mode='line'),
+        color=color.red,
+        scale=1
+    )
+
+def create_grid_dots(x_range=(-10, 10), z_range=(-10, 10), spacing=1):
+    for x in range(x_range[0], x_range[1] + 1, spacing):
+        for z in range(z_range[0], z_range[1] + 1, spacing):
+            Entity(
+                model='sphere',
+                scale=0.05,
+                color=color.white33,
+                position=Vec3(x, 0, z),
+                collision=None  # Ensure no interference
+            )
+
+create_grid_dots()
+
+aimlines = [create_aim_lines() for _ in range(4)]
+
+def update():
+    global last_time
+    now = time.time()
+    elapsed = now - last_time
+
+    if elapsed < target_frame_duration:
+        time.sleep(target_frame_duration - elapsed)
+
+    last_time = time.time()
+
+    half_w = genplane.scale_x / 2
+    half_h = genplane.scale_y / 2
+
+    half_w = half_w / genplane.scale_x
+
+    # Set local positions based on current scale
+    corners = [
+        Vec3(-half_w, 0, -half_h), #bottomleft
+        Vec3( half_w, 0, -half_h), #bottomright
+        Vec3(-half_w, 0,  half_h), #topleft
+        Vec3( half_w, 0,  half_h), #topright
+    ]
+
+    for arrow, corner in zip(aimlines, corners):
+        # transform = genplane.get_net_transform().get_inverse().getMat()
+        # local_corner = transform.xform_point(Point3(corner))
+        arrow.position = corner
+
+
+    #updates
+    # firstentity.rotation_y += 30 * time.dt 
+    # print(mouse.hovered_entity)
+    pass
+
 
 def reflect_ray(origin, direction, remaining_bounces, max_bounces, base_color=color.red):
     if remaining_bounces <= 0:
@@ -140,15 +209,6 @@ def input(key):
     elif key == 'p':
         toggle_camera_mode()
         
-    elif key == 'g':
-        if controlwindow == False:
-            init_gui(process_gui_cmd)
-
-
-
-
-
-
 
 
 # Entity(
